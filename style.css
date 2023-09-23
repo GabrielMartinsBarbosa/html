@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+main{
+    text-align: center;
+    margin-top: 30%;
+}
+img{
+    border-radius: 100px;
+    border-color: black;
+    border-style: double;
+    width: 100px;
+    
+}
+h3{
+    padding: 22px;
+}
+p{
+    width: 50%;
+    margin: auto;
+}
